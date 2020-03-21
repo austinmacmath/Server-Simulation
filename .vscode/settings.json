@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.tmpl": "html",
+        "iostream": "cpp",
+        "chrono": "cpp",
+        "algorithm": "cpp",
+        "utility": "cpp",
+        "random": "cpp",
+        "map": "cpp"
+    }
+}
